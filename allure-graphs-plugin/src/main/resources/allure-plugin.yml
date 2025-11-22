@@ -1,0 +1,12 @@
+id: allure-graphs-plugin
+name: Graph tabs
+description: Adds tabs specified by the file name to the report that include various graphs
+jsFiles:
+  - GraphGridView.js
+  - ChartView.js
+  - GraphLayout.js
+  - index.js
+cssFiles:
+  - style.css
+extensions:
+  - org.karlisV.GraphsTabPlugin
