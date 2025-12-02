@@ -1,1 +1,1 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+hf_offline_packages.zip filter=lfs diff=lfs merge=lfs -text
